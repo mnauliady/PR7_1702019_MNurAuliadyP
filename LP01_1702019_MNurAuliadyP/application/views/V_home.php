@@ -8,13 +8,13 @@
 	<div class="container">
 	<h2>Pilih Menu</h2>
 	<hr>
-	<button class="btn btn-sm bg-primary">
+	<button class="btn btn-sm bg-secondary">
       <a class="nav-link text-white" href="<?php  echo site_url('C_join/left_join')?>">Left Join</a>
      </button>
-     <button class="btn btn-sm bg-primary">
+     <button class="btn btn-sm bg-secondary">
       <a class="nav-link text-white" href="<?php  echo site_url('C_join/right_join')?>">Right Join</a>
      </button>
-     <button class="btn btn-sm bg-primary">
+     <button class="btn btn-sm bg-secondary">
       <a class="nav-link text-white" href="<?php  echo site_url('C_join/inner_join')?>">Inner Join</a>
      </button>
      </div>
