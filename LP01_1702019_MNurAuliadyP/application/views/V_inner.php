@@ -8,7 +8,7 @@
 <div class="container">
 <h2>Hasil Inner Join</h2>
 <hr>
-<table border="1">
+<table border="1" class="table table-dark">
 	<thead>
 		<tr>
 			<th>No</th>
