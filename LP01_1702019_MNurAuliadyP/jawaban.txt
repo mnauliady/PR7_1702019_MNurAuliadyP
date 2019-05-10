@@ -1,0 +1,5 @@
+ INER JOIN yaitu sebuah perintah yang digunakan untuk menampilkan sebuah data atau record dengan menghubungkan dua table atau lebih dalam satu perintah, pada perintah inner join data yang akan ditampilkan hanyalah data yang memiliki pasangan saja, maksudnya yaitu data pada table tidak memiliki sebuah kesamaan maka data tidak akan ditampilkan.
+
+ LEFT JOIN,  left Join merupakan penggabungan tabel dimana data akan ditampilkan secara keseluruhan pada tabel pertama (kiri) namun record pada tabel kedua (kanan) yang kosong akan ditampilkan dengan isi NULL.
+
+ RIGHT JOIN, right join akan menampilkan data secara keseluruhan pada tabel kedua (kanan), namun NULL pada tabel pertama (kiri).
